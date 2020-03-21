@@ -1,0 +1,67 @@
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\The-Simple-Bank.exe.config
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\The-Simple-Bank.exe
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\The-Simple-Bank.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\ControlzEx.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\MahApps.Metro.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\MaterialDesignColors.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\MaterialDesignThemes.Wpf.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\MaterialSkin.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\System.Windows.Interactivity.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\ToastNotifications.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\ControlzEx.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\MahApps.Metro.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\MahApps.Metro.xml
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\MaterialDesignColors.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\MaterialDesignThemes.Wpf.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\bin\Debug\MaterialDesignThemes.Wpf.xml
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\The-Simple-Bank.csprojAssemblyReference.cache
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\MainWindow.g.cs
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\App.g.cs
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\The-Simple-Bank_MarkupCompile.cache
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\The-Simple-Bank_MarkupCompile.lref
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\App.baml
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\MainWindow.baml
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\The-Simple-Bank.g.resources
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\The_Simple_Bank.Properties.Resources.resources
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\The-Simple-Bank.csproj.GenerateResource.cache
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\The-Simple-Bank.csproj.CopyComplete
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\The-Simple-Bank.exe
+Z:\CSharp_Project\WPF\The-Simple-Bank(14-March-2020) 3_22PM\The-Simple-Bank\obj\Debug\The-Simple-Bank.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\The-Simple-Bank.exe.config
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\The-Simple-Bank.exe
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\The-Simple-Bank.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\ControlzEx.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\MahApps.Metro.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\MaterialDesignColors.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\MaterialDesignThemes.Wpf.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\MaterialSkin.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\System.Windows.Interactivity.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\ToastNotifications.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\ControlzEx.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\MahApps.Metro.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\MahApps.Metro.xml
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\MaterialDesignColors.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\MaterialDesignThemes.Wpf.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\MaterialDesignThemes.Wpf.xml
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\Splash.baml
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\MainWindow.g.cs
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\Splash.g.cs
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\App.g.cs
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank_MarkupCompile.cache
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank_MarkupCompile.lref
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\App.baml
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\MainWindow.baml
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.g.resources
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The_Simple_Bank.Properties.Resources.resources
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.csproj.GenerateResource.cache
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.csproj.CopyComplete
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.exe
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.csprojAssemblyReference.cache
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\Signup.g.cs
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\Signup.baml
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\Dashboard.g.cs
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\Dashboard.baml
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\Dragablz.dll
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\Dragablz.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank\bin\Debug\Dragablz.xml
