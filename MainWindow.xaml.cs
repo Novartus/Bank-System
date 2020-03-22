@@ -65,7 +65,6 @@ namespace The_Simple_Bank
                     // Print the string.   
                     return hash;
                     //   MessageBox.Show(hash);
-                    // temp_text.Text = hash;
                 }
             }
         }
@@ -78,26 +77,23 @@ namespace The_Simple_Bank
         {
             String message = "Invalid Credentials";
             SqlConnection sqlConnection = new SqlConnection(@"Data Source=ACER-NOVARTUS\SQLEXPRESS; Initial Catalog=LoginDB; Integrated Security=True;");
-           // int uid;
             try
             {
                 if (sqlConnection.State == ConnectionState.Closed)
                 {
                     sqlConnection.Open();
                 }
-           //   string hashedPassword = Security.HashSHA2(password.Password + uid);
                 
                 String query = "SELECT COUNT(1) FROM Table_Users WHERE Userid=@Userid AND Password=@Password";
                 SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
-                
-                
                 sqlCommand.CommandType = CommandType.Text;
-                sqlCommand.Parameters.AddWithValue("@Userid", int.Parse(userid.Text));
-                sqlCommand.Parameters.AddWithValue("@Password", Security.HashSHA2(password.Password.ToString() + userid.Text.ToString()) );
+                sqlCommand.Parameters.AddWithValue("@Userid", int.Parse(userid.Text.Trim()));
+                sqlCommand.Parameters.AddWithValue("@Password", Security.HashSHA2(password.Password.ToString() + userid.Text.Trim().ToString()) );
                 int count = Convert.ToInt32(sqlCommand.ExecuteScalar());
+                
                 if (count == 1)
                 {
-                    uname = userid.Text;
+                   // uname = userid.Text;
                     MessageBox.Show("Correct Details !");
                     Dashboard dashboard = new Dashboard();
                     dashboard.Show();
@@ -111,14 +107,13 @@ namespace The_Simple_Bank
             }
             catch (Exception ex)
             {
-               // sqlConnection.Close();
                 MessageBox.Show(ex.Message);
             }
             finally
             {
-                uname = null;
-                password.Password = null;
-                userid = null;
+                uname = "";
+                password.Password = "";
+                userid.Text = "";
                 sqlConnection.Close();
             }
 
