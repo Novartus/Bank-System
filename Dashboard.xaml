@@ -32,46 +32,42 @@
         </EventTrigger>
     </Window.Triggers>
 
-
-
     <Grid Background="#FFDEDEDE">
+
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="77*"/>
             <ColumnDefinition Width="146*"/>
         </Grid.ColumnDefinitions>
-        <Grid Margin="0 60 0 0" >
-            <dragablz:TabablzControl x:Name="Tab_UI" Margin="70,4,-584,-4" SelectionChanged="TabablzControl_SelectionChanged" BorderBrush="Gold" >
-                <dragablz:TabablzControl.InterTabController>
-                    <dragablz:InterTabController/>
-                </dragablz:TabablzControl.InterTabController>
-                <TabItem>
-                    <TabItem.Header>
-                        <TextBlock Text="Home" Foreground="Black" />
-                    </TabItem.Header>
-                    <TextBlock Text="Home !" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black"/>
-                </TabItem>
-                <TabItem>
-                    <TabItem.Header>
-                        <TextBlock Text="Design" Foreground="Black" />
-                    </TabItem.Header>
-                    <TextBlock Text="Amazing designs!" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black"/>
-                </TabItem>
-                <TabItem>
-                    <TabItem.Header>
-                        <TextBlock Text="Help" Foreground="Black" />
-                    </TabItem.Header>
-                    <TextBlock Text="Ask for any question!" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black"/>
-                </TabItem>
-                <TabItem>
-                    <TabItem.Header>
-                        <materialDesign:PackIcon Kind="GithubCircle" Foreground="{DynamicResource {x:Static SystemColors.ActiveCaptionTextBrushKey}}"/>
-                    </TabItem.Header>
-                    <TextBlock Text="github.com/Novartus" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                </TabItem>
-            </dragablz:TabablzControl>
-        </Grid>
 
-        <Grid x:Name="GridMain" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="540" Width="892" Grid.ColumnSpan="2"/>
+        <!-- Modification Starts-->
+        <Grid Margin="68,63,0,459" Grid.ColumnSpan="2" Background="#FFFFD700">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top"  Margin="0,0,10,0">
+                <Button Uid="0" Width="100" Content="HOME" Height="47" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" Click="Button_Click"/>
+                <Button Uid="1" Width="100" Content="T2" Height="47" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" Click="Button_Click"/>
+                <Button Uid="2" Width="100" Content="T3" Height="47" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" Click="Button_Click"/>
+                <Button Uid="3" Width="100" Content="T4" Height="46" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" Click="Button_Click"/>
+                <Button Uid="4" Width="100" Content="T5" Height="47" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" Click="Button_Click"/>
+                <Button Uid="5" Width="100" Content="T6" Height="47" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" Click="Button_Click"/>
+                <Button Uid="6" Width="100" Content="T7" Height="46" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" Click="Button_Click"/>
+            </StackPanel>
+            <!--Grid x:Name="GridCursor" Width="100" Height="5" Background="#FFA60A0A" HorizontalAlignment="Left" Margin="0,42,0,0"/-->
+        </Grid>
+        <!-- Modification Ends-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <Grid x:Name="GridMain" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="459" Width="824" Grid.ColumnSpan="2" Background="White"/>
         <Grid Height="63" VerticalAlignment="Top" Background="#FFA60A0A" Grid.ColumnSpan="2">
             <Grid.Effect>
                 <DropShadowEffect BlurRadius="1" ShadowDepth="1" Color="#FFACACAC"/>
@@ -93,7 +89,7 @@
                     </StackPanel>
                 </materialDesign:PopupBox>
             </StackPanel>
-            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24"><Run Text="Dashboard"/></TextBlock>
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24"><Run Text="Welcome !"/></TextBlock>
         </Grid>
         <Grid x:Name="GridMenu" Width="68" HorizontalAlignment="Left" Background="Gold">
             <Grid.Effect>
@@ -131,7 +127,7 @@
                             <TextBlock Text="My Passbook" VerticalAlignment="Center" Margin="20 10"/>
                         </StackPanel>
                     </ListViewItem>
-                    <ListViewItem Height="60">
+                    <ListViewItem x:Name="Account" Height="60">
                         <StackPanel Orientation="Horizontal">
                             <materialDesign:PackIcon Kind="Account" Height="25" Width="25" Margin="10"/>
                             <TextBlock Text="Account Details" VerticalAlignment="Center"  Margin="20 10"/>
