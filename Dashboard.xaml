@@ -6,7 +6,7 @@
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
         xmlns:local="clr-namespace:The_Simple_Bank"
-        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Class="The_Simple_Bank.Dashboard"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Name="dashboard" x:Class="The_Simple_Bank.Dashboard"
         mc:Ignorable="d"
          WindowStyle="SingleBorderWindow" Title="Account Dashboard" Height="600" Width="900" WindowStartupLocation="CenterScreen">
     <Window.Resources>

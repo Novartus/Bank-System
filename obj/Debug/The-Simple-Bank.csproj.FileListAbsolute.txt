@@ -64,3 +64,4 @@ Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.csproj.GenerateR
 Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.csproj.CopyComplete
 Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.exe
 Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.pdb
+Z:\CSharp_Project\WPF\The-Simple-Bank\obj\Debug\The-Simple-Bank.csprojAssemblyReference.cache
